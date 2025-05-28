@@ -3,7 +3,7 @@
 
 # Global Property
 title-text: ""
-desktop-image: "background_grub.jpg"
+desktop-image: "background_grub.png"
 desktop-color: "#000000"
 terminal-font: "Terminus Regular 14"
 terminal-box: "terminal_box_*.png"
@@ -14,7 +14,7 @@ terminal-height: "100%"
 terminal-border: "0"
 
 + boot_menu {
-  left = 30%
+  left = 52%
   top = 30%
   width = 40%
   height = 40%
@@ -31,8 +31,8 @@ terminal-border: "0"
 }
 
 + image {
-  top = 100%-50
-  left = 50%-240
+  top = 100%-100
+  left = 52%
   width = 480
   height = 42
   file = "action_button.png"
