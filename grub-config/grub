@@ -43,8 +43,8 @@ GRUB_DISABLE_RECOVERY="true"
 #GRUB_COLOR_HIGHLIGHT="light-cyan/blue"
 
 # Uncomment one of them for the gfx desired, a image background or a gfxtheme
-GRUB_BACKGROUND="/usr/share/grub/themes/vimix/background.jpg"
-GRUB_THEME="/usr/share/grub/themes/vimix/theme.txt"
+GRUB_BACKGROUND="/path/to/background_grub.png"
+GRUB_THEME="/path/to/theme.txt"
 
 # Uncomment to get a beep at GRUB start
 #GRUB_INIT_TUNE="480 440 1"
@@ -61,6 +61,3 @@ GRUB_THEME="/usr/share/grub/themes/vimix/theme.txt"
 # functionality install os-prober and uncomment to detect and include other
 # operating systems.
 #GRUB_DISABLE_OS_PROBER="false"
-
-
-#GRUB_FONT="/boot/grub/unicode.pf2"
