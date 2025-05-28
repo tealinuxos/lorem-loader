@@ -2,7 +2,7 @@
 
 GRUB_DEFAULT="0"
 GRUB_TIMEOUT="-1"
-GRUB_DISTRIBUTOR="Tea Linux"
+GRUB_DISTRIBUTOR="Tea"
 GRUB_CMDLINE_LINUX_DEFAULT="loglevel=3 quiet"
 GRUB_CMDLINE_LINUX="zswap.enabled=0 rootfstype=btrfs"
 
