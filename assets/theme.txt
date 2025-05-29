@@ -21,8 +21,8 @@ terminal-border: "0"
   item_font = "Unifont Regular 24"
   item_color = "#CCC"
   selected_item_color = "#CCF8CD"
-  icon_width = 67
-  icon_height = 67
+  icon_width = 42
+  icon_height = 42
   item_icon_space = 20
   item_height = 58
   item_padding = 5
