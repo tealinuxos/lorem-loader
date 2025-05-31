@@ -1,8 +1,8 @@
 # Preview
 ### Before
-![[assets/grub_legacy.png]]
+![[https://github.com/tealinuxos/lorem-loader/blob/master/assets/grub_legacy.png]]
 ### After
-![[assets/rule_of_thumb.png]]
+![[https://github.com/tealinuxos/lorem-loader/blob/master/assets/rule_of_thumb.png]]
 
 # Bootloader Grub
 GRUB bertugas **mengelola proses booting** dan **memilih sistem operasi** atau kernel Linux mana yang akan dijalankan. Ketika komputer dinyalakan, GRUB akan tampil sebelum sistem operasi dimulai dan bisa menampilkan menu pilihan jika terdapat lebih dari satu sistem operasi atau kernel.
