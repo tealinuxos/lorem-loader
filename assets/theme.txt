@@ -37,3 +37,14 @@ terminal-border: "0"
   height = 42
   file = "action_button.png"
 }
+
++ label {
+  top = 82%
+  left = 55%
+  width = 36%
+  align = "center"
+  id = "__timeout__"
+  text = "Booting in %d seconds"
+  color = "#CCF8CD"
+  font = "Terminus Regular 18"
+}
