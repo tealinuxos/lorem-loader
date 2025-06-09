@@ -3,7 +3,7 @@
 
 # Global Property
 title-text: ""
-desktop-image: "background_grub.png"
+desktop-image: "background_grub_final.png"
 desktop-color: "#000000"
 terminal-font: "Terminus Regular 14"
 terminal-box: "terminal_box_*.png"
@@ -30,16 +30,8 @@ terminal-border: "0"
   selected_item_pixmap_style = "select_*.png"
 }
 
-+ image {
-  top = 100%-100
-  left = 52%
-  width = 480
-  height = 42
-  file = "action_button.png"
-}
-
 + label {
-  top = 82%
+  top = 70%
   left = 55%
   width = 36%
   align = "center"
